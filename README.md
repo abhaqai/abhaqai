@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Abdul Haque
 
-<!--
-**abhaqai/abhaqai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring AI/ML Developer
+I'm currently on an exciting journey of learning **Machine Learning & Artificial Intelligence** from scratch. Passionate about solving real-world problems with AI and eager to share my progress along the way.
 
-Here are some ideas to get you started:
+## 🔥 Skills & Technologies
+- 🐍 Python
+- 📊 Data Science Basics
+- 🤖 Machine Learning (In Progress)
+- 🔢 Mathematics for AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning Journey
+I'm currently learning **Machine Learning from [Awferalms](https://app.awferalms.com/student/courses) and YouTube**. Exploring concepts like supervised learning, deep learning, and data preprocessing.
+
+## 📌 Connect with Me
+- 🌐 GitHub: [abhaqai](https://github.com/abhaqai)
+- 📩 Email: [abdul010haq@gmail.com]
+
+🚀 Let's collaborate and grow together in the AI/ML space!
